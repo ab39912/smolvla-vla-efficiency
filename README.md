@@ -27,7 +27,7 @@ End-to-end offline evaluation pipeline for **SmolVLA** (450M-parameter vision-la
 
 ---
 
-## The normalization story (why the bullet exists)
+## The normalization story 
 
 The first run of the eval gave a mean L1 of **77.8** with a suspicious per-dimension pattern:
 

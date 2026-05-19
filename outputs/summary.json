@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-18T19:57:48.241039",
+  "model": "lerobot/smolvla_base",
+  "dataset": "lerobot/svla_so100_pickplace",
+  "fine_tuned": false,
+  "split": {
+    "train_episodes": [
+      0,
+      39
+    ],
+    "test_episodes": [
+      40,
+      49
+    ],
+    "test_frames_evaluated": 4032
+  },
+  "metrics": {
+    "mean_l1": 22.284303665161133,
+    "median_l1": 21.99405860900879,
+    "std_l1": 9.58022689819336,
+    "per_dim_l1": [
+      26.013057708740234,
+      27.500961303710938,
+      17.449594497680664,
+      15.101805686950684,
+      38.541011810302734,
+      9.099346160888672
+    ]
+  }
+}
